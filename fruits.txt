@@ -1,6 +1,6 @@
 apple
 mango
 orange
-
+water melon
 
 the above are the list of fruits
