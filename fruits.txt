@@ -1,6 +1,4 @@
 apple
 mango
 orange
-
-
-the above are the list of fruits
+banana
