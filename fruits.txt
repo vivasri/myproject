@@ -2,3 +2,7 @@ apple
 mango
 orange
 banana
+water melon
+
+the above are the list of fruits
+
